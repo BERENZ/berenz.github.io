@@ -13,8 +13,3 @@ profile:
 
 execute:
   freeze: auto
-
-comments:
-  giscus:
-    repo: berenz/berenz.github.io
-
