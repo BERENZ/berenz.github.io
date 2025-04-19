@@ -11,6 +11,9 @@ profile:
   default: english
   group: [english, polish]
 
+execute:
+  freeze: auto
+
 comments:
   giscus:
     repo: berenz/berenz.github.io
