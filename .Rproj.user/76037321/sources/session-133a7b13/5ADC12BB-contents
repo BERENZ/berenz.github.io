@@ -12,7 +12,21 @@ website:
         text: English
     left:
       - href: index.qmd
-        text: Home
+        text: Główna
+      - href: index.qmd
+        text: News
+      - href: index.qmd
+        text: CV
+      - href: publications.qmd
+        text: Publikacje
+      - href: index.qmd
+        text: Projekty
+      - href: index.qmd
+        text: Dydaktyka
+      - href: index.qmd
+        text: Software
+      - href: contact.qmd
+        text: Kontakt
 
 lang: pl-PL
 

@@ -1,8 +1,8 @@
 ---
-title: "Maciej Beręsewicz"
+title: "dr Maciej Beręsewicz, prof. UEP"
 toc: false
 about: 
-  template: trestles
+  template: jolla
   image-shape: round
   image-width: 15em
   links:
@@ -20,11 +20,11 @@ about:
 
 ::: {.content-visible when-profile="english"}
 
-test
+Department of Statistics, Poznań University of Economics and Business, Poland
 :::
 
 ::: {.content-visible when-profile="polish"}
 
-testuje
+Katedra Statystyki, Uniwersytet Ekonomiczny w Poznaniu, Polska
 :::
 

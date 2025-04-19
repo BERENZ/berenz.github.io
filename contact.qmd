@@ -1,0 +1,31 @@
+---
+pagetitle: "Contact"
+toc: false
+email-obfuscation: javascript
+---
+
+::: {.content-visible when-profile="english"}
+
+## Contact details
+
+dr Maciej Beręsewicz, prof. UEP <br />
+Department of Statistics <br />
+Poznań University of Economics and Business <br />
+al. Niepodległości 10 | 61-875 Poznań <br />
+tel. + 48 61-854-36-80 | maciej.beresewicz[at]ue.poznan.pl <br />
+www.ue.poznan.pl <br />
+
+:::
+
+::: {.content-visible when-profile="polish"}
+
+## Dane kontaktowe
+
+dr Maciej Beręsewicz, prof. UEP <br />
+Katedra Statystyki <br />
+Uniwersytet Ekonomiczny w Poznaniu <br />
+al. Niepodległości 10 | 61-875 Poznań <br />
+tel. + 48 61-854-36-80 | maciej.beresewicz[at]ue.poznan.pl <br />
+www.ue.poznan.pl <br />
+
+:::
