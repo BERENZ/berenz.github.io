@@ -1,0 +1,38 @@
+project:
+  title: "Arthur Bazolli Alvarenga"
+  output-dir: ./docs/
+
+website:
+  navbar:
+    background: primary
+    right:
+      - href: ../pt
+        text: Português
+      - href: ../
+        text: English
+    left:
+      - href: index.qmd
+        text: Home
+      - href: resources.qmd
+        text: Resources
+      - href: input/cv.pdf
+        text: CV
+      - href: posts.qmd
+        text: Blog
+    # right:
+      # - text: Português
+      #   href: |
+      #     <button onclick="window.location = location.href.replace('.io/','.io/pt/');" class="btn"><i class="fa fa-language"></button>
+      # - | 
+        # <link rel="stylesheet" href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css><button onclick="window.location = location.href.replace('.io/','.io/pt/');" class="btn"><i class="fa fa-language"></i> Português</button>
+      
+lang: en
+
+format:
+  html:
+    theme: 
+     light: [flatly, styles.scss] 
+     dark: [darkly, styles.scss]
+    css: styles.css
+    toc: true
+    mainfont: Atkinson Hyperlegible

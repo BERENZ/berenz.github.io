@@ -2,20 +2,16 @@ project:
   type: website
 
 website:
-  title: "my-website"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: "Maciej Beręsewicz"
+  open-graph:
+    locale: en-GB
+    site-name: "Maciej Beręsewicz"
 
-format:
-  html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
+profile:
+  default: english
+  group: [english, polish]
 
-
+comments:
+  giscus:
+    repo: berenz/berenz.github.io
 

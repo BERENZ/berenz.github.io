@@ -1,11 +1,30 @@
 ---
-title: "my-website"
+title: "Maciej Beręsewicz"
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/mberesewicz
+    - icon: github
+      text: GitHub
+      href: https://github.com/berenz
+    - icon: envelope
+      text: Email
+      href: mailto:maciej.beresewicz@ue.poznan.pl
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.content-visible when-profile="english"}
 
-```{r}
-1 + 1
-```
+test
+:::
+
+::: {.content-visible when-profile="polish"}
+
+testuje
+:::
+

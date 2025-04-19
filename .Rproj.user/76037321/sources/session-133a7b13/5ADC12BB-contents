@@ -1,0 +1,25 @@
+project:
+  title: "Maciej Beręsewicz"
+  output-dir: ./docs/pl
+
+website:
+  navbar:
+    background: primary
+    right:
+      - href: ../pl
+        text: Polish
+      - href: ../
+        text: English
+    left:
+      - href: index.qmd
+        text: Home
+
+lang: pl-PL
+
+format:
+  html:
+    theme:
+     light: flatly
+     dark: flatly
+    css: styles.css
+    toc: true
