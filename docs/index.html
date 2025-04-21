@@ -95,11 +95,11 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link active" href="./index.html" aria-current="page"> 
-<span class="menu-text">Główna</span></a>
+<span class="menu-text">Main</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./index.html"> 
-<span class="menu-text">Newsy</span></a>
+<span class="menu-text">News/Blog</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./index.html"> 
@@ -405,7 +405,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/BERENZ\.github\.io\/berenz\.github\.io\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
