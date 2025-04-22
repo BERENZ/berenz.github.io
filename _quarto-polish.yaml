@@ -12,8 +12,6 @@ website:
         text: English
     left:
       - href: index.qmd
-        text: Główna
-      - href: index.qmd
         text: News
       - href: index.qmd
         text: CV
@@ -21,12 +19,23 @@ website:
         text: Publikacje
       - href: index.qmd
         text: Projekty
-      - href: index.qmd
-        text: Dydaktyka
+      - sidebar:teaching
       - href: index.qmd
         text: Software
+      - href: index.qmd
+        text: Aktywności
       - href: contact.qmd
         text: Kontakt
+  sidebar:
+      - id: teaching
+        title: "Dydaktyka"
+        style: "floating"
+        collapse-level: 1
+        contents:
+          - href: ./teaching/classes.qmd
+          - href: ./teaching/materials.qmd
+          - href: ./teaching/seminars.qmd
+          - href: ./teaching/students.qmd
 
 lang: pl-PL
 

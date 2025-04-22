@@ -1,0 +1,29 @@
+---
+pagetitle: "Activities"
+toc: true
+---
+
+::: {.content-visible when-profile="english"}
+
+## Talks
+
+## Committees
+
+## Organisation
+
+## International organisations
+
+:::
+
+::: {.content-visible when-profile="polish"}
+
+## Wystąpienia
+
+## Komisje
+
+## Organizacje
+
+## Organizacje międzynarodowe
+
+
+:::

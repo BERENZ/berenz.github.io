@@ -1,7 +1,6 @@
 project:
   title: "Maciej Beręsewicz"
   output-dir: ./docs/
-
 website:
   navbar:
     background: primary
@@ -12,21 +11,31 @@ website:
         text: English
     left:
       - href: index.qmd
-        text: Main
-      - href: index.qmd
-        text: News/Blog
+        text: News
       - href: index.qmd
         text: CV
       - href: publications.qmd
         text: Publications
       - href: index.qmd
         text: Projects
-      - href: index.qmd
-        text: Teaching
+      - sidebar:teaching
       - href: index.qmd
         text: Software
+      - href: activities.qmd
+        text: Activities
       - href: contact.qmd
         text: Contact
+  sidebar:
+      - id: teaching
+        title: "Teaching"
+        style: "docked"
+        background: light
+        collapse-level: 1
+        contents:
+          - href: ./teaching/classes.qmd
+          - href: ./teaching/materials.qmd
+          - href: ./teaching/seminars.qmd
+          - href: ./teaching/students.qmd
 
 lang: en
 
