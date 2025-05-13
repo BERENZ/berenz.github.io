@@ -21,32 +21,11 @@
     "text": "International organisations"
   },
   {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "Maciej Beręsewicz",
-    "section": "",
-    "text": "Home\n    News\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZapisy na seminaria 25/26\n\n\n\nseminaria\n\n\n\nInformacja o seminariach licencjackich i magisterskich\n\n\n\n\n\nMay 13, 2025\n\n\nMaciej Beręsewicz\n\n\n\n\n\n\n\n\n\n\n\n\nNatalie Shomo at UEP\n\n\n\nseminaria\n\n\n\nprof. Natalie Shlomo (University of Manchester) visited UEP\n\n\n\n\n\nMay 9, 2025\n\n\nMaciej Beręsewicz\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Maciej Beręsewicz",
-    "section": "",
-    "text": "Home\n    Publications\n  \n\n\n\n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/2025-05-09-natalie/index.html",
-    "href": "posts/2025-05-09-natalie/index.html",
-    "title": "Natalie Shomo at UEP",
-    "section": "",
-    "text": "Prof. Natalie Shlomo visited Department of Statistics between 6th and 9th of May 2025. During her stay she was involved in two events on 8th of May:\n\nSeminar on Statistical Dsclosure Control at Statistical Office in Poznań\nSeminar on “R-indicators for Assessing Representativeness for Surveys, Administrative Data and Non-probability Samples”\n\nAbstract: In this presentation, we focus on the use of Representativity (R-) Indicators to assess representativeness in survey and non-survey data. We start with the initial purpose of developing R-indicators for use in adaptive survey designs in probability-based surveys. Through the analysis of R-indicators, we can build profiles (characteristics) of the data units where more or less attention is required in the data collection. We present an application of an adaptive survey design for the Dutch Crime Victimisation Survey. R-indicators have been extended to allow for assessing representativeness in survey data when information about nonrespondents is not available. For this purpose, we can use population marginal and cross-tabulations to use as ‘plug-ins’ under a linear regression for estimating response propensities and R-indicators. We demonstrate with an application where R-indicators were successfully applied to assess representativeness in the 2011 EU-SILC datasets using 2011 European census counts as population benchmarks. More recently, R-indicators have been developed to assess representativeness in non-survey data sources, namely administrative data and non-probability samples. We show applications on assessing representativeness in non-survey data, making use of high-quality survey data collections to produce the population benchmarks.\nProf Natalie Shlomo’s lectures were financed by funds from the Ministry of Science awarded under the ‘Regional Excellence Initiative’ programme for the project ‘Poznań University of Economics for Economy 5.0: Regional Initiative - Global Effects (IREG)’."
-  },
-  {
     "objectID": "posts/2025-05-13-seminaria/index.html",
     "href": "posts/2025-05-13-seminaria/index.html",
     "title": "Zapisy na seminaria 25/26",
     "section": "",
-    "text": "Zapraszam do zapisów na następujące seminaria na rok akademicki 2025/26:\n\nSeminaria licencjackie (max 7 osób)\n\nanaliza przemocy domowej w świetle rejestrów administracyjnych na niskim poziomie agregacji przestrzennej (2 osoby)\nhierarchiczna klasyfikacja ofert pracy z wykorzystaniem modułu job_offers_classifier (1-2 osoby)\nwielowymiarowa analiza statystyczna polskiej muzyki metalowej z wykorzystaniem Spotify API i innych źródeł (1-2 osoby)\nwielkie modele językowe na potrzeby rozwoju metod z zakresu statystyki i rachunku prawdopodobieństwa (1 osoba)\n\nSeminaria magisterskie (max 5 osób)\n\nrozwój i implementacja wybranych metod estymacji na podstawie prób nielosowych w pakiecie nonprobsvy (1 osoba)\nrozwój i implementacja wybranych metod estymacji wielkości populacji w pakiecie singleRcapture (1 osoba)\nrozwój i implementacja wybranych metod estymacji wielkości populacji dla wielu źródeł danych (1 osoba)\nwielowymiarowa analiza statystyczna polskiej muzyki metalowej z wykorzystaniem Spotify API i innych źródeł (1 osoba)\nwielkie modele językowe na potrzeby rozwoju metod z zakresu statystyki i rachunku prawdopodobieństwa (1 osoba)\n\n\nWarunki uczestnictwa:\n\ndobra znajomość matematyki i statystyki\nzainteresowanie tematem, chęć zgłębiania wiedzy\nznajomość języków programowania (głównie R)\nsamodzielność i dobra organizacja pracy\nrozmowa kwalifikacyjna\nprzeczytanie regulaminu zapisów\n\nDodatkowych informacji mogę udzielić podczas konsutlacji."
+    "text": "Zapraszam do zapisów na następujące seminaria na rok akademicki 2025/26:\n\nSeminaria licencjackie (max 7 osób)\n\nanaliza przemocy domowej w świetle rejestrów administracyjnych na niskim poziomie agregacji przestrzennej (2 osoby)\nhierarchiczna klasyfikacja ofert pracy z wykorzystaniem modułu job_offers_classifier (1-2 osoby)\nwielowymiarowa analiza statystyczna polskiej muzyki metalowej z wykorzystaniem Spotify API i innych źródeł (1-2 osoby)\nwielkie modele językowe na potrzeby rozwoju metod z zakresu statystyki i rachunku prawdopodobieństwa (1 osoba)\n\nSeminaria magisterskie (max 5 osób)\n\nrozwój i implementacja wybranych metod estymacji na podstawie prób nielosowych w pakiecie nonprobsvy (1 osoba)\nrozwój i implementacja wybranych metod estymacji wielkości populacji w pakiecie singleRcapture (1 osoba)\nrozwój i implementacja wybranych metod estymacji wielkości populacji dla wielu źródeł danych (1 osoba)\nwielowymiarowa analiza statystyczna polskiej muzyki metalowej z wykorzystaniem Spotify API i innych źródeł (1 osoba)\nwielkie modele językowe na potrzeby rozwoju metod z zakresu statystyki i rachunku prawdopodobieństwa (1 osoba)\n\n\nWarunki uczestnictwa:\n\ndobra znajomość matematyki i statystyki\nzainteresowanie tematem, chęć zgłębiania wiedzy\nznajomość języków programowania (głównie R)\nsamodzielność i dobra organizacja pracy\nrozmowa kwalifikacyjna: proszę umówić się mailowo\nprzeczytanie regulaminu zapisów\n\nDodatkowych informacji mogę udzielić podczas konsutlacji."
   },
   {
     "objectID": "contact.html",
@@ -63,10 +42,31 @@
     "text": "dr Maciej Beręsewicz, prof. UEP  Department of Statistics  Poznań University of Economics and Business  al. Niepodległości 10 | 61-875 Poznań  tel. + 48 61-854-36-80 | maciej.beresewicz[at]ue.poznan.pl  www.ue.poznan.pl"
   },
   {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Maciej Beręsewicz",
+    "section": "",
+    "text": "Home\n    Publications\n  \n\n\n\n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "dr Maciej Beręsewicz, prof. UEP",
     "section": "",
     "text": "Department of Statistics, Poznań University of Economics and Business, Poland"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "Maciej Beręsewicz",
+    "section": "",
+    "text": "Home\n    News\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZapisy na seminaria 25/26\n\n\n\nseminaria\n\n\n\nInformacja o seminariach licencjackich i magisterskich\n\n\n\n\n\nMay 13, 2025\n\n\nMaciej Beręsewicz\n\n\n\n\n\n\n\n\n\n\n\n\nNatalie Shomo at UEP\n\n\n\nseminaria\n\n\n\nprof. Natalie Shlomo (University of Manchester) visited UEP\n\n\n\n\n\nMay 9, 2025\n\n\nMaciej Beręsewicz\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2025-05-09-natalie/index.html",
+    "href": "posts/2025-05-09-natalie/index.html",
+    "title": "Natalie Shomo at UEP",
+    "section": "",
+    "text": "Prof. Natalie Shlomo visited Department of Statistics between 6th and 9th of May 2025. During her stay she was involved in two events on 8th of May:\n\nSeminar on Statistical Dsclosure Control at Statistical Office in Poznań\nSeminar on “R-indicators for Assessing Representativeness for Surveys, Administrative Data and Non-probability Samples”\n\nAbstract: In this presentation, we focus on the use of Representativity (R-) Indicators to assess representativeness in survey and non-survey data. We start with the initial purpose of developing R-indicators for use in adaptive survey designs in probability-based surveys. Through the analysis of R-indicators, we can build profiles (characteristics) of the data units where more or less attention is required in the data collection. We present an application of an adaptive survey design for the Dutch Crime Victimisation Survey. R-indicators have been extended to allow for assessing representativeness in survey data when information about nonrespondents is not available. For this purpose, we can use population marginal and cross-tabulations to use as ‘plug-ins’ under a linear regression for estimating response propensities and R-indicators. We demonstrate with an application where R-indicators were successfully applied to assess representativeness in the 2011 EU-SILC datasets using 2011 European census counts as population benchmarks. More recently, R-indicators have been developed to assess representativeness in non-survey data sources, namely administrative data and non-probability samples. We show applications on assessing representativeness in non-survey data, making use of high-quality survey data collections to produce the population benchmarks.\nProf Natalie Shlomo’s lectures were financed by funds from the Ministry of Science awarded under the ‘Regional Excellence Initiative’ programme for the project ‘Poznań University of Economics for Economy 5.0: Regional Initiative - Global Effects (IREG)’."
   }
 ]
