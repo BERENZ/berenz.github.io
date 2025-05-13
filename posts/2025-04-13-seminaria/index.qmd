@@ -1,0 +1,42 @@
+---
+title: "Zapisy na seminaria 25/26"
+image: "uep.svg"
+description: "Informacja o seminariach licencjackich i magisterskich"
+author: "Maciej Beręsewicz"
+date: "2025-05-13"
+draft: false
+categories:
+  - seminaria
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+Zapraszam do zapisów na następujące seminaria na rok akademicki 2025/26:
+
++ **Seminaria licencjackie (max 7 osób)**
+    - analiza przemocy domowej w świetle rejestrów administracyjnych na niskim poziomie agregacji przestrzennej (*2 osoby*)
+    - hierarchiczna klasyfikacja ofert pracy z wykorzystaniem modułu [job_offers_classifier](https://github.com/OJALAB/paper-job-ads-classifier) (*1-2 osoby*)
+    - wielowymiarowa analiza statystyczna polskiej muzyki metalowej z wykorzystaniem Spotify API i innych źródeł (*1-2 osoby*)
+    - wielkie modele językowe na potrzeby rozwoju metod z zakresu statystyki i rachunku prawdopodobieństwa (*1 osoba*)
+
+
++ **Seminaria magisterskie (max 5 osób)**
+    -  rozwój i implementacja wybranych metod estymacji na podstawie prób nielosowych w pakiecie [nonprobsvy](https://cran.r-project.org/package=nonprobsvy) (*1 osoba*)
+    -  rozwój i implementacja wybranych metod estymacji wielkości populacji w pakiecie [singleRcapture](https://cran.r-project.org/package=singleRcapture) (*1 osoba*)
+    -  rozwój i implementacja wybranych metod estymacji wielkości populacji dla wielu źródeł danych (*1 osoba*)
+    -  wielowymiarowa analiza statystyczna polskiej muzyki metalowej z wykorzystaniem Spotify API i innych źródeł (*1 osoba*)
+    -  wielkie modele językowe na potrzeby rozwoju metod z zakresu statystyki i rachunku prawdopodobieństwa (*1 osoba*)
+
+
+**Warunki uczestnictwa**:
+
++ dobra znajomość matematyki i statystyki
++ zainteresowanie tematem, chęć zgłębiania wiedzy
++ znajomość języków programowania (głównie R)
++ samodzielność i dobra organizacja pracy
++ **rozmowa kwalifikacyjna**
++ [przeczytanie regulaminu zapisów](https://ue.poznan.pl/studenci/)
+
+Dodatkowych informacji mogę udzielić podczas konsutlacji.

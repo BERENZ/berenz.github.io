@@ -1,10 +1,12 @@
 [
   {
-    "listing": "/publications.html",
-    "items": []
+    "listing": "/news.html",
+    "items": [
+      "/posts/2025-04-13-seminaria/index.html"
+    ]
   },
   {
-    "listing": "/news.html",
+    "listing": "/publications.html",
     "items": []
   }
 ]

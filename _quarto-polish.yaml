@@ -11,7 +11,7 @@ website:
       - href: ../
         text: English
     left:
-      - href: index.qmd
+      - href: news.qmd
         text: News
       - href: index.qmd
         text: CV

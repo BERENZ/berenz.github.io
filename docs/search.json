@@ -1,17 +1,38 @@
 [
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
+    "objectID": "activities.html#committees",
+    "href": "activities.html#committees",
     "title": "Maciej Beręsewicz",
-    "section": "",
-    "text": "Home\n    Publications\n  \n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\nNo matching items"
+    "section": "Committees",
+    "text": "Committees"
   },
   {
-    "objectID": "news.html",
-    "href": "news.html",
+    "objectID": "activities.html#organisation",
+    "href": "activities.html#organisation",
     "title": "Maciej Beręsewicz",
+    "section": "Organisation",
+    "text": "Organisation"
+  },
+  {
+    "objectID": "activities.html#international-organisations",
+    "href": "activities.html#international-organisations",
+    "title": "Maciej Beręsewicz",
+    "section": "International organisations",
+    "text": "International organisations"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "dr Maciej Beręsewicz, prof. UEP",
     "section": "",
-    "text": "Home\n    News\n  \n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Department of Statistics, Poznań University of Economics and Business, Poland"
+  },
+  {
+    "objectID": "posts/2025-04-13-seminaria/index.html",
+    "href": "posts/2025-04-13-seminaria/index.html",
+    "title": "Zapisy na seminaria 25/26",
+    "section": "",
+    "text": "Zapraszam do zapisów na następujące seminaria na rok akademicki 2025/26:\n\nSeminaria licencjackie (max 7 osób)\n\nanaliza przemocy domowej w świetle rejestrów administracyjnych na niskim poziomie agregacji przestrzennej (2 osoby)\nhierarchiczna klasyfikacja ofert pracy z wykorzystaniem modułu job_offers_classifier (1-2 osoby)\nwielowymiarowa analiza statystyczna polskiej muzyki metalowej z wykorzystaniem Spotify API i innych źródeł (1-2 osoby)\nwielkie modele językowe na potrzeby rozwoju metod z zakresu statystyki i rachunku prawdopodobieństwa (1 osoba)\n\nSeminaria magisterskie (max 5 osób)\n\nrozwój i implementacja wybranych metod estymacji na podstawie prób nielosowych w pakiecie nonprobsvy (1 osoba)\nrozwój i implementacja wybranych metod estymacji wielkości populacji w pakiecie singleRcapture (1 osoba)\nrozwój i implementacja wybranych metod estymacji wielkości populacji dla wielu źródeł danych (1 osoba)\nwielowymiarowa analiza statystyczna polskiej muzyki metalowej z wykorzystaniem Spotify API i innych źródeł (1 osoba)\nwielkie modele językowe na potrzeby rozwoju metod z zakresu statystyki i rachunku prawdopodobieństwa (1 osoba)\n\n\nWarunki uczestnictwa:\n\ndobra znajomość matematyki i statystyki\nzainteresowanie tematem, chęć zgłębiania wiedzy\nznajomość języków programowania (głównie R)\nsamodzielność i dobra organizacja pracy\nrozmowa kwalifikacyjna\nprzeczytanie regulaminu zapisów\n\nDodatkowych informacji mogę udzielić podczas konsutlacji."
   },
   {
     "objectID": "contact.html",
@@ -28,48 +49,17 @@
     "text": "dr Maciej Beręsewicz, prof. UEP  Department of Statistics  Poznań University of Economics and Business  al. Niepodległości 10 | 61-875 Poznań  tel. + 48 61-854-36-80 | maciej.beresewicz[at]ue.poznan.pl  www.ue.poznan.pl"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "dr Maciej Beręsewicz, prof. UEP",
-    "section": "",
-    "text": "Department of Statistics, Poznań University of Economics and Business, Poland"
-  },
-  {
-    "objectID": "teaching/seminars.html",
-    "href": "teaching/seminars.html",
+    "objectID": "news.html",
+    "href": "news.html",
     "title": "Maciej Beręsewicz",
     "section": "",
-    "text": "Semiars",
-    "crumbs": [
-      "Oferty seminarium"
-    ]
+    "text": "Home\n    News\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZapisy na seminaria 25/26\n\n\n\n\n\n\nseminaria\n\n\n\nInformacja o seminariach licencjackich i magisterskich\n\n\n\n\n\nMay 13, 2025\n\n\nMaciej Beręsewicz\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "activities.html#conferences",
-    "href": "activities.html#conferences",
+    "objectID": "publications.html",
+    "href": "publications.html",
     "title": "Maciej Beręsewicz",
-    "section": "Conferences",
-    "text": "Conferences"
-  },
-  {
-    "objectID": "activities.html#international-organisations",
-    "href": "activities.html#international-organisations",
-    "title": "Maciej Beręsewicz",
-    "section": "International organisations",
-    "text": "International organisations"
-  },
-  {
-    "objectID": "activities.html#committees",
-    "href": "activities.html#committees",
-    "title": "Maciej Beręsewicz",
-    "section": "Committees",
-    "text": "Committees"
-  },
-  {
-    "objectID": "activities.html#organisation",
-    "href": "activities.html#organisation",
-    "title": "Maciej Beręsewicz",
-    "section": "Organisation",
-    "text": "Organisation"
+    "section": "",
+    "text": "Home\n    Publications\n  \n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\nNo matching items"
   }
 ]

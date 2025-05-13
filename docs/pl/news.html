@@ -80,9 +80,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -132,6 +132,7 @@ window.Quarto = {
 
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="News / Blog">
+<meta property="og:image" content="./posts/2025-04-13-seminaria/uep.svg">
 <meta property="og:site_name" content="Maciej Beręsewicz">
 <meta property="og:locale" content="en-GB">
 </head>
@@ -154,11 +155,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
-<span class="menu-text">Główna</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link active" href="./news.html" aria-current="page"> 
 <span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item">
@@ -173,13 +170,36 @@ window.Quarto = {
     <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Projekty</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
-<span class="menu-text">Dydaktyka</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-dydaktyka" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Dydaktyka</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-dydaktyka">    
+        <li>
+    <a class="dropdown-item" href="./teaching/classes.html">
+ <span class="dropdown-text">Classes</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./teaching/materials.html">
+ <span class="dropdown-text">Materials</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./teaching/seminars.html">
+ <span class="dropdown-text">Seminars</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./teaching/students.html">
+ <span class="dropdown-text">Students</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Software</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Aktywności</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./contact.html"> 
@@ -208,7 +228,7 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Kategorie</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Wszystkie <span class="quarto-category-count">(0)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Kategorie</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Wszystkie <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c2VtaW5hcmlh">seminaria <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
@@ -227,7 +247,39 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-
+<div class="quarto-post image-right" data-index="0" data-categories="c2VtaW5hcmlh" data-listing-date-sort="1747087200000" data-listing-file-modified-sort="1747128536940" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="218">
+<div class="thumbnail">
+<p><a href="./posts/2025-04-13-seminaria/index.html" class="no-external"></a></p><a href="./posts/2025-04-13-seminaria/index.html" class="no-external">
+<p><img loading="lazy" src="./posts/2025-04-13-seminaria/uep.svg" class="thumbnail-image"></p>
+</a><p><a href="./posts/2025-04-13-seminaria/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/2025-04-13-seminaria/index.html" class="no-external">Zapisy na seminaria 25/26</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/2025-04-13-seminaria/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('c2VtaW5hcmlh'); return false;">
+seminaria
+</div>
+</div>
+<div class="listing-description">
+<a href="./posts/2025-04-13-seminaria/index.html" class="no-external">Informacja o seminariach licencjackich i magisterskich</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./posts/2025-04-13-seminaria/index.html" class="no-external">
+<div class="listing-date">
+13 maj 2025
+</div>
+<div class="listing-author">
+Maciej Beręsewicz
+</div>
+</a>
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 Brak pasujących
