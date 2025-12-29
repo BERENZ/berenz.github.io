@@ -1,47 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://maciejberesewicz.com/activities.html</loc>
-    <lastmod>2025-05-13T17:27:59.013Z</lastmod>
-  </url>
-  <url>
-    <loc>https://maciejberesewicz.com/news.html</loc>
-    <lastmod>2025-05-13T17:27:59.045Z</lastmod>
-  </url>
-  <url>
-    <loc>https://maciejberesewicz.com/publications.html</loc>
-    <lastmod>2025-05-13T17:27:59.070Z</lastmod>
-  </url>
-  <url>
-    <loc>https://maciejberesewicz.com/posts/2025-05-09-natalie/index.html</loc>
-    <lastmod>2025-05-13T17:27:59.069Z</lastmod>
-  </url>
-  <url>
-    <loc>https://maciejberesewicz.com/teaching/students.html</loc>
-    <lastmod>2025-05-13T17:27:59.070Z</lastmod>
-  </url>
-  <url>
-    <loc>https://maciejberesewicz.com/teaching/materials.html</loc>
-    <lastmod>2025-05-13T17:27:59.070Z</lastmod>
-  </url>
-  <url>
-    <loc>https://maciejberesewicz.com/teaching/classes.html</loc>
-    <lastmod>2025-05-13T17:27:59.070Z</lastmod>
+    <loc>https://maciejberesewicz.com/projects.html</loc>
+    <lastmod>2025-12-29T18:15:06.826Z</lastmod>
   </url>
   <url>
     <loc>https://maciejberesewicz.com/teaching/seminars.html</loc>
-    <lastmod>2025-05-13T17:27:59.070Z</lastmod>
+    <lastmod>2025-12-29T18:15:06.826Z</lastmod>
+  </url>
+  <url>
+    <loc>https://maciejberesewicz.com/teaching/classes.html</loc>
+    <lastmod>2025-12-29T18:15:06.826Z</lastmod>
+  </url>
+  <url>
+    <loc>https://maciejberesewicz.com/news.html</loc>
+    <lastmod>2025-12-29T18:15:06.801Z</lastmod>
+  </url>
+  <url>
+    <loc>https://maciejberesewicz.com/cv.html</loc>
+    <lastmod>2025-12-29T18:15:06.792Z</lastmod>
   </url>
   <url>
     <loc>https://maciejberesewicz.com/posts/2025-05-13-seminaria/index.html</loc>
-    <lastmod>2025-05-13T17:27:59.069Z</lastmod>
+    <lastmod>2025-12-29T18:15:06.826Z</lastmod>
   </url>
   <url>
     <loc>https://maciejberesewicz.com/contact.html</loc>
-    <lastmod>2025-05-13T17:27:59.013Z</lastmod>
+    <lastmod>2025-12-29T18:15:06.792Z</lastmod>
   </url>
   <url>
     <loc>https://maciejberesewicz.com/index.html</loc>
-    <lastmod>2025-05-13T17:27:59.045Z</lastmod>
+    <lastmod>2025-12-29T18:15:06.801Z</lastmod>
+  </url>
+  <url>
+    <loc>https://maciejberesewicz.com/software.html</loc>
+    <lastmod>2025-12-29T18:15:06.826Z</lastmod>
+  </url>
+  <url>
+    <loc>https://maciejberesewicz.com/teaching.html</loc>
+    <lastmod>2025-12-29T18:15:06.826Z</lastmod>
+  </url>
+  <url>
+    <loc>https://maciejberesewicz.com/posts/2025-05-09-natalie/index.html</loc>
+    <lastmod>2025-12-29T18:15:06.826Z</lastmod>
+  </url>
+  <url>
+    <loc>https://maciejberesewicz.com/publications.html</loc>
+    <lastmod>2025-12-29T18:15:06.826Z</lastmod>
+  </url>
+  <url>
+    <loc>https://maciejberesewicz.com/activities.html</loc>
+    <lastmod>2025-12-29T18:15:06.792Z</lastmod>
+  </url>
+  <url>
+    <loc>https://maciejberesewicz.com/teaching/students.html</loc>
+    <lastmod>2025-12-29T18:15:06.826Z</lastmod>
+  </url>
+  <url>
+    <loc>https://maciejberesewicz.com/teaching/materials.html</loc>
+    <lastmod>2025-12-29T18:15:06.826Z</lastmod>
   </url>
 </urlset>
