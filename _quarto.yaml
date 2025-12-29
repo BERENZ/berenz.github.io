@@ -24,7 +24,9 @@ website:
       - href: contact.qmd
         text: Contact
     right:
-      - href: cv.qmd
+      - text: CV
+        href: files/beresewicz-maciej-cv.pdf
+        target: _blank
 
 lang: en
 
