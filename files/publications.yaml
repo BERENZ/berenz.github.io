@@ -1,0 +1,70 @@
+references:
+  - id: beresewicz2019estymacja
+    type: article-journal
+    author:
+      - family: Beręsewicz
+        given: Maciej
+      - family: Gudaszewski
+        given: Grzegorz
+      - family: Szymkowiak
+        given: Marcin
+    issued:
+      - year: 2019
+    title: "Estymacja liczby cudzoziemców w Polsce z wykorzystaniem metody capture-recapture"
+    container-title: "Wiadomości Statystyczne. The Polish Statistician"
+    volume: 64
+    issue: 10
+    page: 7-35
+
+  - id: beresewicz2024text
+    type: article-journal
+    author:
+      - family: Beręsewicz
+        given: Maciej
+      - family: Cherniaiev
+        given: Hlib
+      - family: Mantaj
+        given: Adam
+      - family: Pater
+        given: Robert
+    issued:
+      - year: 2024
+    title: "Text analysis of job offers for mismatch of educational characteristics to labour market demands"
+    container-title: "Quality & Quantity"
+    volume: 58
+    issue: 2
+    page: 1799-1825
+
+  - id: gatskova2025feeling
+    type: article-journal
+    author:
+      - family: Gatskova
+        given: Kseniia
+      - family: Pilc
+        given: Michał
+      - family: Beręsewicz
+        given: Maciej
+    issued:
+      - year: 2025
+    title: "Feeling disadvantaged? Type of employment contract and political attitudes"
+    container-title: "Socio-Economic Review"
+    volume: 23
+    issue: 2
+    page: 787-811
+
+  - id: beresewicz2025quantile
+    type: article-journal
+    author:
+      - family: Beręsewicz
+        given: Maciej
+      - family: Szymkowiak
+        given: Marcin
+      - family: Chlebicki
+        given: Piotr
+    issued:
+      - year: 2025
+    title: "Quantile balancing inverse probability weighting for non-probability samples"
+    container-title: "Survey Methodology"
+    volume: 51
+    issue: 2
+    page: 533-559

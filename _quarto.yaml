@@ -1,5 +1,9 @@
 project:
   type: website
+  output-dir: docs
+
+bibliography: ./files/publications.yaml
+csl: apa.csl
 
 website:
   title: "Maciej Beręsewicz"
@@ -35,3 +39,6 @@ format:
     theme: flatly
     css: styles.css
     toc: true
+    footnotes-hover: true
+    fontawesome: true
+    email-obfuscation: javascript
