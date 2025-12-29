@@ -5,6 +5,7 @@ about:
   template: jolla
   image-shape: round
   image-width: 15em
+  image: imgs/profile-small.jpg
   links:
     - icon: twitter
       text: Twitter
@@ -12,19 +13,15 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/berenz
+    - text: "{{< ai orcid >}} ORCID"
+      url: https://orcid.org/0000-0002-8281-4301
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      url: https://scholar.google.com/citations?user=BYLkj0sAAAAJ
     - icon: envelope
       text: Email
       href: mailto:maciej.beresewicz@ue.poznan.pl
 ---
 
-
-::: {.content-visible when-profile="english"}
-
-Department of Statistics, Poznań University of Economics and Business, Poland
-:::
-
-::: {.content-visible when-profile="polish"}
-
-Katedra Statystyki, Uniwersytet Ekonomiczny w Poznaniu, Polska
-:::
-
+Department of Statistics<br/>
+Poznań University of Economics and Business <br/>
+🇵🇱 Poland 🇪🇺

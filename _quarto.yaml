@@ -1,0 +1,35 @@
+project:
+  type: website
+
+website:
+  title: "Maciej Beręsewicz"
+  open-graph:
+    locale: en-GB
+    site-name: "Maciej Beręsewicz"
+  navbar:
+    background: primary
+    left:
+      - href: news.qmd
+        text: News
+      - href: publications.qmd
+        text: Publications
+      - href: projects.qmd
+        text: Projects
+      - href: software.qmd
+        text: Software
+      - href: teaching.qmd
+        text: Teaching
+      - href: activities.qmd
+        text: Activities
+      - href: contact.qmd
+        text: Contact
+    right:
+      - href: cv.qmd
+
+lang: en
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true

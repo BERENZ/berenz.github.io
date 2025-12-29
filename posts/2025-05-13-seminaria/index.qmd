@@ -6,7 +6,8 @@ author: "Maciej Beręsewicz"
 date: "2025-05-13"
 draft: false
 categories:
-  - seminaria
+  - students
+  - Polish
 format:
   html:
     page-layout: full
